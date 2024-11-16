@@ -34,7 +34,11 @@ const Projects = () => {
                             {tech}
                         </span>
                     ))}
+                    <a 
+                    
+                    className='px-3 py-1 bg-[#7A0ECC] hover:bg-[#690CB0] rounded-md cursor-pointer' href={Project.linkToProject} target='_blank'>Preview</a>
                 </motion.div>
+                
             </div>
             ))}
         </div>
