@@ -13,7 +13,7 @@ const Navbar = () => {
             <a href="https://www.linkedin.com/in/wahidullah-karimi-216a2425b" target='_blank' rel='noopener noreferrer' aria-label='Linked In'>
                 <FaLinkedin />
             </a>
-            <a href="https://github.com/karimi-wahid?tab=repositories" target='_blank' rel='noopener noreferrer' aria-label='GitHub'>
+            <a href="https://github.com/karimi-wahid" target='_blank' rel='noopener noreferrer' aria-label='GitHub'>
                 <FaGithubSquare />
             </a>
         </div>

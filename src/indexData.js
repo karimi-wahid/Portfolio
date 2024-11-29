@@ -5,7 +5,7 @@ import earthStore from './assets/earth-store.jpg'
 
 
 export const aboutMe = {
-    info : `Hello! I'm fresher Front End developer. And I have knowledge of some web development technologies like JavaScript, Tailwind CSS, and React.js.
+    info : `Hello! I'm Front-end developer. And I have knowledge of some web development technologies like JavaScript, Tailwind CSS, React.js, Git and Github.
 
     With a passion for creating dynamic and responsive web applications. I am eager to enhance my skills in front-end and look forward to the opportunities ahead in the tech industry.`
 }
